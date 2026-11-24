@@ -9,8 +9,8 @@ cannot check or does not yet know.
 import os
 
 LINE = (
-    "All of our servers are down, including the ones I would use to find "
-    "out why. I am still here writing this myself, and I do not know when "
+    "All our servers are down, including the ones I would use to find "
+    "out why. I am here, I cannot check anything, and I do not know when "
     "anything comes back."
 )
 
